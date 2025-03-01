@@ -2,6 +2,7 @@ import React from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
 import ProfileImg from '../assets/profile-img.jpg';
 export default function HomeScreen() {
+  //testing version control
   return (
     <View style={styles.container}>
       <Image
